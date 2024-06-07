@@ -12,7 +12,7 @@ Setup Instructions
 Cloning the Repository
 First, clone the repository to your local machine:
 
-git clone <repository_url>
+git clone https://github.com/vaishnavi-bollam/project---Medium-Scraper
 cd medium-scraper
 
 
